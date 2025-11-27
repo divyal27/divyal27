@@ -6,6 +6,16 @@
 
 ---
 
+## 🔄 DevOps Mindset
+
+<div align="center">
+  <img src="https://img.shields.io/badge/DevOps-Build%20|%20Test%20|%20Deploy%20|%20Monitor-blue?style=for-the-badge&logo=devops" alt="DevOps" />
+</div>
+
+<p align="center">
+  <strong>Code → Build → Test → Release → Deploy → Operate → Monitor</strong>
+</p>
+
 **divyal27/divyal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 Here are some ideas to get you started:  
 - 🔭 I’m currently working on ...  
