@@ -19,9 +19,19 @@
 ## 🔄 Complete DevOps Ecosystem
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gKpj6VjL35fS87jHOKJJ4Q.png" alt="DevOps Ecosystem" width="600" />/>
-  </div>
+  ![DevOps Ecosystem](https://img.shields.io/badge/DevOps-Ecosystem-blue?style=for-the-badge&logo=git&logoColor=white)
 
+  ### Tools by Phase:
+| Phase | Tools |
+|-------|-------|
+| **Code** | GitLab, Git, Gradle, SonarQube, Nexus |
+| **Build & Test** | Jenkins, Docker, Ansible, Azure, OpenStack |
+| **Deploy & Operate** | Chef, Kubernetes, Grafana, Graylog |
+| **Monitor & Feedback** | Prometheus, ELK Stack, Grafana |
+
+<p align="center">
+  <strong>Each tool plays a critical role in automating the software development lifecycle.</strong>
+</p>
 <p align="center">
   <em>Comprehensive DevOps tools and technologies integrated in the Dev-Ops lifecycle</em>
 </p>
