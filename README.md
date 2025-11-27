@@ -19,8 +19,9 @@
 ## 🔄 Complete DevOps Ecosystem
 
 <div align="center">
-  ![DevOps Ecosystem](https://img.shields.io/badge/DevOps-Ecosystem-blue?style=for-the-badge&logo=git&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/DevOps-Ecosystem-blue?style=for-the-badge&logo=git&logoColor=white" alt="DevOps Ecosystem" />
+</div>
   ### Tools by Phase:
 | Phase | Tools |
 |-------|-------|
