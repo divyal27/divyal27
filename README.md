@@ -1,6 +1,11 @@
 ## Hi there 👋
+## 🛠️ Tools & Technologies
+<!--## 🛠️ Tools & Technologies
 
-<!--
+| Linux | Docker | Kubernetes | Jenkins | Git | GitHub | AWS |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> |
+
 **divyal27/divyal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Add tools section
 -->
