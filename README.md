@@ -16,6 +16,16 @@
   <strong>Code → Build → Test → Release → Deploy → Operate → Monitor</strong>
 </p>
 
+## 🔄 Complete DevOps Ecosystem
+
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*gKpj6VjL35fS87jHOKJJ4Q.png" alt="DevOps Ecosystem" width="600" />/>
+  </div>
+
+<p align="center">
+  <em>Comprehensive DevOps tools and technologies integrated in the Dev-Ops lifecycle</em>
+</p>
+
 **divyal27/divyal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 Here are some ideas to get you started:  
 - 🔭 I’m currently working on ...  
