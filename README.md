@@ -11,8 +11,7 @@
 ## 🔄 DevOps Lifecycle
 
 <div align="center">
-  <img src="https://www.devopsuniversity.com/images/devops-lifecycle.png" alt="DevOps Cycle" width="700" /></div>
-
+  <img src="https://raw.githubusercontent.com/milanm/DevOps-Roadmap/master/img/DevOps-Infinity-Loop.png" alt="DevOps Infinity Loop" width="700" />
 <p align="center">
   <strong>Continuous Integration & Continuous Deployment (CI/CD)</strong><br>
   <em>Code → Build → Test → Release → Deploy → Operate → Monitor → Plan</em>
