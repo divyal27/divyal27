@@ -1,41 +1,71 @@
-## Hi there 👋
+# Hi there 👋
 
-## 🛠️ Tools & Technologies
+## Tools & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,git,github,aws,html,css,javascript,mysql)](https://skillicons.dev)
+| Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=linux" width="45" /> | <img src="https://skillicons.dev/icons?i=terraform" width="45" /> | <img src="https://skillicons.dev/icons?i=jenkins" width="45" /> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45" /> | <img src="https://skillicons.dev/icons?i=ansible" width="45" /> | <img src="https://skillicons.dev/icons?i=ubuntu" width="45" /> | <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=docker" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> |
 
 ---
 
-## 🔄 DevOps Mindset
+## 🔄 DevOps Lifecycle
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DevOps-Build%20|%20Test%20|%20Deploy%20|%20Monitor-blue?style=for-the-badge&logo=devops" alt="DevOps" />
+  <img src="https://imgur.com/BxJaFIT.png" alt="DevOps Cycle" width="700" />
 </div>
 
 <p align="center">
-  <strong>Code → Build → Test → Release → Deploy → Operate → Monitor</strong>
+  <strong>Continuous Integration & Continuous Deployment (CI/CD)</strong><br>
+  <em>Code → Build → Test → Release → Deploy → Operate → Monitor → Plan</em>
 </p>
 
-## 🔄 Complete DevOps Ecosystem
+---
+
+## Additional Skills
+
+| Category | Technologies |
+|----------|---------------|
+| **Programming Languages** | HTML, SQL, Python, JavaScript |
+| **Cloud Platforms** | AWS, Azure, Google Cloud |
+| **Databases** | MariaDB, PostgreSQL, MongoDB |
+| **Other Tools** | Git, GitHub, REST APIs, Linux Scripting |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<div align="center">
-  <img src="https://img.shields.io/badge/DevOps-Ecosystem-blue?style=for-the-badge&logo=git&logoColor=white" alt="DevOps Ecosystem" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyal27&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyal27&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-  ### Tools by Phase:
-| Phase | Tools |
-|-------|-------|
-| **Code** | GitLab, Git, Gradle, SonarQube, Nexus |
-| **Build & Test** | Jenkins, Docker, Ansible, Azure, OpenStack |
-| **Deploy & Operate** | Chef, Kubernetes, Grafana, Graylog |
-| **Monitor & Feedback** | Prometheus, ELK Stack, Grafana |
 
-<p align="center">
-  <strong>Each tool plays a critical role in automating the software development lifecycle.</strong>
-</p>
-<p align="center">
-  <em>Comprehensive DevOps tools and technologies integrated in the Dev-Ops lifecycle</em>
-</p>
+---
 
-**divyal27/divyal27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+## 🎓 Currently Learning
 
+- 📚 **Data Structures & Algorithms** (DSA)
+- 🔐 **Blockchain Technology**
+- ☁️ **Cloud Infrastructure**
+- 🚀 **Advanced DevOps Practices**
+
+---
+
+## 📌 Featured Projects
+
+- 🏋️ **Gym Management App** - Full-stack application for gym operations
+- 💳 **E-commerce Store** - Complete e-commerce platform
+- 🗳️ **Blockchain E-Voting System** - Secure voting using blockchain
+- 📦 **Warehouse Management System** - Inventory & logistics management
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyal-padalkar-b0bab0340)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyal27)
+
+---
+
+<div align="center">
+  <em>⭐ If you find my projects useful, please consider giving them a star!</em>
+</div>
