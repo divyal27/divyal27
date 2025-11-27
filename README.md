@@ -11,8 +11,7 @@
 ## 🔄 DevOps Lifecycle
 
 <div align="center">
-  <img src="https://imgur.com/BxJaFIT.png" alt="DevOps Cycle" width="700" />
-</div>
+  <img src="https://www.devopsuniversity.com/images/devops-lifecycle.png" alt="DevOps Cycle" width="700" /></div>
 
 <p align="center">
   <strong>Continuous Integration & Continuous Deployment (CI/CD)</strong><br>
