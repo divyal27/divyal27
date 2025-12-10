@@ -2,9 +2,9 @@
 
 ## Tools & Skills
 
-| Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=linux" width="45" /> | <img src="https://skillicons.dev/icons?i=terraform" width="45" /> | <img src="https://skillicons.dev/icons?i=jenkins" width="45" /> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45" /> | <img src="https://skillicons.dev/icons?i=ansible" width="45" /> | <img src="https://skillicons.dev/icons?i=ubuntu" width="45" /> | <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=docker" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> |
+| Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub | Prometheus | Grafana | SonarQube | Trivy | Datadog |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:||:---|:---|:---|:---|:---|
+| <img src="https://skillicons.dev/icons?i=linux" width="45" /> | <img src="https://skillicons.dev/icons?i=terraform" width="45" /> | <img src="https://skillicons.dev/icons?i=jenkins" width="45" /> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45" /> | <img src="https://skillicons.dev/icons?i=ansible" width="45" /> | <img src="https://skillicons.dev/icons?i=ubuntu" width="45" /> | <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=docker" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> | <img src="https://skillicons.dev/icons?i=prometheus" width="45" /> | <img src="https://skillicons.dev/icons?i=grafana" width="45" /> | <img src="https://skillicons.dev/icons?i=sonarqube" width="45" /> | <img src="https://skillicons.dev/icons?i=trivy" width="45" /> | <img src="https://skillicons.dev/icons?i=datadog" width="45" /> |
 
 ---
 
