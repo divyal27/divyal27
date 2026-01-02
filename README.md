@@ -1,69 +1,18 @@
-# Hi there 👋
+# 💫 About Me:
+Devops Engg. and  B.E  Computer Engg. From Savitribai Phule Pune University.<br> 
 
-## Tools & Skills
 
-| Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub | Prometheus | Grafana | SonarQube | Trivy | Datadog |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:||:---|:---|:---|:---|:---|
-| <img src="https://skillicons.dev/icons?i=linux" width="45" /> | <img src="https://skillicons.dev/icons?i=terraform" width="45" /> | <img src="https://skillicons.dev/icons?i=jenkins" width="45" /> | <img src="https://skillicons.dev/icons?i=kubernetes" width="45" /> | <img src="https://skillicons.dev/icons?i=ansible" width="45" /> | <img src="https://skillicons.dev/icons?i=ubuntu" width="45" /> | <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=docker" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> | <img src="https://skillicons.dev/icons?i=prometheus" width="45" /> | <img src="https://skillicons.dev/icons?i=grafana" width="45" /> | <img src="https://skillicons.dev/icons?i=sonarqube" width="45" /> | <img src="https://skillicons.dev/icons?i=trivy" width="45" /> | <img src="https://skillicons.dev/icons?i=datadog" width="45" /> |
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/padalkar_divyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/divyal-padalkar-b0bab0340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:888divyal.3@gmail.com) 
 
----
-
-## 🔄 DevOps Lifecycle
-
-<div align="center">
-  <img src="https://coursera-university-assets.s3.amazonaws.com/89/6a0b0f7c4b11e791c3e3847a8b0bb8/devops_infinity.png" alt="DevOps Infinity Loop" width="700" / />
-</div>
-  <strong>Continuous Integration & Continuous Deployment (CI/CD)</strong><br>
-  <em>Code → Build → Test → Release → Deploy → Operate → Monitor → Plan</em>
-</p>
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=divyal27&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=divyal27&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyal27&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=divyal27&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## Additional Skills
-
-| Category | Technologies |
-|----------|---------------|
-| **Programming Languages** | HTML, SQL, Python, JavaScript |
-| **Cloud Platforms** | AWS, Azure, Google Cloud |
-| **Databases** | MariaDB, PostgreSQL, MongoDB |
-| **Other Tools** | Git, GitHub, REST APIs, Linux Scripting |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyal27&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyal27&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎓 Currently Learning
-
-- 📚 **Data Structures & Algorithms** (DSA)
-- 🔐 **Blockchain Technology**
-- ☁️ **Cloud Infrastructure**
-- 🚀 **Advanced DevOps Practices**
-
----
-
-## 📌 Featured Projects
-
-- 🏋️ **Gym Management App** - Full-stack application for gym operations
-- 💳 **E-commerce Store** - Complete e-commerce platform
-- 🗳️ **Blockchain E-Voting System** - Secure voting using blockchain
-- 📦 **Warehouse Management System** - Inventory & logistics management
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyal-padalkar-b0bab0340)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyal27)
-
----
-
-<div align="center">
-  <em>⭐ If you find my projects useful, please consider giving them a star!</em>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
