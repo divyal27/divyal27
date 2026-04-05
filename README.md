@@ -1,10 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0078D7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Divyal+Padalkar+👋;DevOps+Engineer+☁️;Multi-Cloud+%7C+AWS+%7C+Azure+%7C+GCP;Automating+Everything+⚙️;Kubernetes+%7C+Docker+%7C+Terraform" alt="Typing SVG" />
-</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C6FF&height=200&section=header&text=Divyal%20Padalkar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=55&descColor=ffffff)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyal27&label=Profile%20Views&color=0078D7&style=flat" alt="divyal27" />
-  <img src="https://img.shields.io/github/followers/divyal27?label=Followers&style=flat&color=0078D7" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=divyal27&label=Profile%20Views&color=0078D7&style=flat" />
+  <img src="https://img.shields.io/github/followers/divyal27?label=Followers&style=flat&color=0078D7" />
 </p>
 
 ---
@@ -101,8 +99,4 @@ open_to: Collaborations & Open Source
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Automate+everything.+Ship+fast.+Stay+reliable.+🚀" />
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0078D7&height=120&section=footer)
