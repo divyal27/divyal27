@@ -31,8 +31,8 @@ I am a **DevOps & SRE Professional** dedicated to bridging the gap between devel
 ## 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyal27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyal27&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyal27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyal27&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
