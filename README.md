@@ -9,8 +9,8 @@
 I am a **DevOps & SRE Professional** dedicated to bridging the gap between development, operations, and security. I specialize in architecting scalable cloud infrastructures, automating complex CI/CD pipelines with a **DevSecOps** mindset, and leveraging **AIOps** for intelligent system observability. My goal is to enhance developer productivity and ensure high system reliability through modern automation and site reliability engineering practices.
 
 - 🌍 Based in **Pune, India**
-- ✉️ Contact me at: **[Your Email Here]**
-- 💼 LinkedIn: **[Your LinkedIn Profile]**
+- ✉️ Contact me at: **888divyal.3@gmail.com**
+- 💼 LinkedIn: **Divyal Padalkar**
 - 🛠️ Currently focusing on **GitOps & Platform Engineering**
 
 ---
