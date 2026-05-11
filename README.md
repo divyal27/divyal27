@@ -1,12 +1,12 @@
 # Hi there, I'm Divyal Padalkar! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Architect;Automation+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;SRE;DevSecOps+Specialist;AIOps+Enthusiast;Cloud+Architect" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
 
-I am a **DevOps Engineer** dedicated to bridging the gap between development and operations. I specialize in architecting scalable cloud infrastructures, automating complex CI/CD pipelines, and implementing robust monitoring solutions. My goal is to enhance developer productivity and ensure system reliability through modern DevOps practices.
+I am a **DevOps & SRE Professional** dedicated to bridging the gap between development, operations, and security. I specialize in architecting scalable cloud infrastructures, automating complex CI/CD pipelines with a **DevSecOps** mindset, and leveraging **AIOps** for intelligent system observability. My goal is to enhance developer productivity and ensure high system reliability through modern automation and site reliability engineering practices.
 
 - 🌍 Based in **Pune, India**
 - ✉️ Contact me at: **[Your Email Here]**
@@ -66,7 +66,7 @@ Leveraging AI to streamline system observability and troubleshooting.
   <a href="https://www.linkedin.com/in/divyal-padalkar-01b31b202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:888divyal.3@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
