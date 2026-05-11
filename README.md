@@ -1,102 +1,77 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C6FF&height=200&section=header&text=Divyal%20Padalkar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=55&descColor=ffffff)
+# Hi there, I'm Divyal Padalkar! 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyal27&label=Profile%20Views&color=0078D7&style=flat" />
-  <img src="https://img.shields.io/github/followers/divyal27?label=Followers&style=flat&color=0078D7" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Architect;Automation+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </p>
+
+## 🚀 About Me
+
+I am a **DevOps Engineer** dedicated to bridging the gap between development and operations. I specialize in architecting scalable cloud infrastructures, automating complex CI/CD pipelines, and implementing robust monitoring solutions. My goal is to enhance developer productivity and ensure system reliability through modern DevOps practices.
+
+- 🌍 Based in **Pune, India**
+- ✉️ Contact me at: **[Your Email Here]**
+- 💼 LinkedIn: **[Your LinkedIn Profile]**
+- 🛠️ Currently focusing on **GitOps & Platform Engineering**
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Tech Stack & Tools
 
-```yaml
-name: Divyal Padalkar
-location: Pune, India
-role: DevOps Engineer
-focus:
-  - Multi-cloud Infrastructure (AWS · Azure · GCP)
-  - Container Orchestration (Kubernetes · Docker · Helm)
-  - Infrastructure as Code (Terraform · Ansible)
-  - CI/CD Pipelines (Jenkins · GitHub Actions · ArgoCD)
-  - Monitoring & Observability (Prometheus · Grafana · ELK)
-currently_learning: GitOps, Platform Engineering
-open_to: Collaborations & Open Source
-```
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628?style=flat&logo=helm) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white) |
+| **CI/CD & GitOps** | ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-FFA600?style=flat&logo=argo) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic-stack&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
 
 ---
 
-## 🛠️ Tech Stack
-
-### ☁️ Cloud Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
-
-### 📦 Containers & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" />
-</p>
-
-### 🏗️ IaC & Config Management
-<p>
-  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
-
-### ⚙️ CI/CD & Automation
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
-### 📊 Monitoring & Observability
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic%20Stack-%23005571.svg?style=for-the-badge&logo=elasticstack&logoColor=white" />
-</p>
-
-### 💻 Scripting & Tools
-<p>
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyal27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyal27&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyal27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyal27&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyal27&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyal27&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌟 Featured Projects
 
-<p>
-  <a href="https://linkedin.com/in/divyalpadalkar">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+### ☁️ [Weather DevOps Flask](https://github.com/divyal27/weather-devops-flask)
+A comprehensive demonstration of a production-ready Flask application.
+- **Key Features:** Automated CI/CD, Containerization, and Cloud Deployment.
+- **Tech:** Python, Docker, GitHub Actions, AWS.
+
+### 🏗️ [Jenkins-Ansible Pipeline](https://github.com/divyal27/jenkins-ansible-pipeline)
+End-to-end automation for infrastructure provisioning and application deployment.
+- **Key Features:** Infrastructure as Code, Configuration Management.
+- **Tech:** Jenkins, Ansible, Terraform.
+
+### 🤖 [AI-Ops Log Analyzer](https://github.com/divyal27/aiops-log-analyzer)
+Leveraging AI to streamline system observability and troubleshooting.
+- **Key Features:** Automated log parsing, anomaly detection.
+- **Tech:** Python, Machine Learning, ELK Stack.
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/divyal-padalkar-01b31b202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:888divyal.3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/divyal27">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0078D7&height=120&section=footer)
+---
+<p align="center">
+  <i>"Automate everything, measure everything, and share everything."</i>
+</p>
