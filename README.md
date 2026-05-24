@@ -70,6 +70,79 @@ Currently deepening my work in **GitOps and Platform Engineering**, and I'm open
 
 <!-- REQUIRES WAKATIME SETUP — see setup guide below -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                27 commits          ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌃 Evening                50 commits          ██████████████░░░░░░░░░░░   57.47 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   16 commits          █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                25 commits          ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Thursday                 23 commits          ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Sunday                   20 commits          ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/divyal27/divyal27/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/05/2026 11:42:21 UTC
 <!--END_SECTION:waka-->
 
 ---
