@@ -1,77 +1,141 @@
-# Hi there, I'm Divyal Padalkar! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;SRE;DevSecOps+Specialist;AIOps+Enthusiast;Cloud+Architect" alt="Typing SVG" />
-</p>
+# Hi, I'm Divyal Padalkar 👋
 
-## 🚀 About Me
+![Visitors](https://komarev.com/ghpvc/?username=divyal27&color=36BCF7&style=flat&label=Profile+Views)
 
-I am a **DevOps & SRE Professional** dedicated to bridging the gap between development, operations, and security. I specialize in architecting scalable cloud infrastructures, automating complex CI/CD pipelines with a **DevSecOps** mindset, and leveraging **AIOps** for intelligent system observability. My goal is to enhance developer productivity and ensure high system reliability through modern automation and site reliability engineering practices.
+**DevOps Engineer · CI/CD Automation · Kubernetes · Cloud Infrastructure**
 
-- 🌍 Based in **Pune, India**
-- ✉️ Contact me at: **888divyal.3@gmail.com**
-- 💼 LinkedIn: **Divyal Padalkar**
-- 🛠️ Currently focusing on **GitOps & Platform Engineering**
+*I build the infrastructure that lets developers ship faster and sleep better.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyal-padalkar-01b31b202/)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:888divyal.3@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Pune,_India-Remote_Friendly-36BCF7?style=flat)](#)
+[![Open To Work](https://img.shields.io/badge/Status-Open_to_Remote_Roles_&_Freelance-brightgreen?style=flat)](#)
 
-## 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) |
-| **Containers** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1628?style=flat&logo=helm) |
-| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white) |
-| **CI/CD & GitOps** | ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-FFA600?style=flat&logo=argo) |
-| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic-stack&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
+</div>
 
 ---
 
-## 📈 GitHub Ecosystem
+## 🙋 Who I Am
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyal27&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyal27&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
-</p>
+I'm a DevOps Engineer focused on **CI/CD automation, Kubernetes orchestration, and cloud infrastructure**. I care about one thing: making deployments boring — no surprises, no 2 AM pages, just reliable systems that scale.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyal27&theme=tokyonight" alt="GitHub Streak" />
-</p>
+I've built pipelines from scratch, automated manual workflows that used to eat hours, and wired up full observability stacks so teams catch problems before users do. I'm comfortable across AWS, Azure, and GCP, and I write infrastructure as code — not YAML soup.
+
+Currently deepening my work in **GitOps and Platform Engineering**, and I'm open to **remote full-time roles and freelance infrastructure projects**.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FFA600?style=flat&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=github-actions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1628?style=flat&logo=helm&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic-stack&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyal27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/divyal27)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyal27&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)](https://github.com/divyal27)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=divyal27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=divyal27&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/divyal27)
+
+</div>
+
+---
+
+## ⏱️ This Week I Coded
+
+<!-- REQUIRES WAKATIME SETUP — see setup guide below -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🐍 Contribution Graph
+
+<!-- REQUIRES SNAKE ACTION SETUP — see setup guide below -->
+![Snake dark](https://raw.githubusercontent.com/divyal27/divyal27/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake light](https://raw.githubusercontent.com/divyal27/divyal27/output/github-snake.svg#gh-light-mode-only)
+
+---
+
+## 🚀 Projects Worth Looking At
+
+### 🔁 [Self-Healing CI/CD Pipeline](https://github.com/divyal27/self-healing-ci-cd-flask-url-shortener)
+A Flask URL shortener with a CI/CD pipeline that detects failures and automatically rolls back bad deployments — no human intervention required.
+
+`Python` `GitHub Actions` `Self-healing automation`
+
+---
+
+### 🤖 [AIOps Log Analyzer](https://github.com/divyal27/aiops-log-analyzer)
+Uses ML-based anomaly detection to parse and flag unusual patterns in system logs before they become incidents. Built for the gap between "something is wrong" and "we know what's wrong."
+
+`Python` `ELK Stack` `Machine Learning`
+
+---
 
 ### ☁️ [Weather DevOps Flask](https://github.com/divyal27/weather-devops-flask)
-A comprehensive demonstration of a production-ready Flask application.
-- **Key Features:** Automated CI/CD, Containerization, and Cloud Deployment.
-- **Tech:** Python, Docker, GitHub Actions, AWS.
+End-to-end demo of a containerized Flask app with automated CI/CD, cloud deployment on AWS, and Docker-based delivery. Covers the full DevOps lifecycle in one repo.
+
+`Python` `Docker` `GitHub Actions` `AWS`
+
+---
 
 ### 🏗️ [Jenkins-Ansible Pipeline](https://github.com/divyal27/jenkins-ansible-pipeline)
-End-to-end automation for infrastructure provisioning and application deployment.
-- **Key Features:** Infrastructure as Code, Configuration Management.
-- **Tech:** Jenkins, Ansible, Terraform.
+Infrastructure provisioning and application deployment automated from commit to production. Jenkins handles orchestration, Ansible handles configuration, Terraform handles the infra.
 
-### 🤖 [AI-Ops Log Analyzer](https://github.com/divyal27/aiops-log-analyzer)
-Leveraging AI to streamline system observability and troubleshooting.
-- **Key Features:** Automated log parsing, anomaly detection.
-- **Tech:** Python, Machine Learning, ELK Stack.
+`Jenkins` `Ansible` `Terraform`
 
 ---
 
-## 🤝 Let's Connect!
+### 🛒 [Ecommerce Microservices](https://github.com/divyal27/ecommerce-microservices)
+Microservices-based e-commerce architecture demonstrating container orchestration and service mesh patterns.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/divyal-padalkar-01b31b202/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+`JavaScript` `Docker` `Microservices`
 
 ---
-<p align="center">
-  <i>"Automate everything, measure everything, and share everything."</i>
-</p>
+
+## 🔧 Right Now
+
+- 🎯 Building deeper expertise in **GitOps workflows with ArgoCD and Flux**
+- 📚 Working towards **AWS Solutions Architect / CKA certification**
+- 🤝 Open to: **remote DevOps roles, freelance infrastructure contracts, and open source collaborations**
+
+---
+
+## 📬 Let's Talk
+
+If you're looking for someone who can set up your CI/CD from zero, migrate your infra to IaC, or fix the deployment process that's been "good enough" for too long — I'm your person.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyal_Padalkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyal-padalkar-01b31b202/)
+[![Email](https://img.shields.io/badge/Gmail-888divyal.3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:888divyal.3@gmail.com)
+
+*"Automate the boring. Monitor the rest. Sleep through the night."*
+
+</div>
