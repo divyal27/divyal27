@@ -70,8 +70,6 @@ Currently deepening my work in **GitOps and Platform Engineering**, and I'm open
 
 <!-- REQUIRES WAKATIME SETUP — see setup guide below -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -142,7 +140,7 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/divyal27/divyal27/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 11:42:21 UTC
+ Last Updated on 25/05/2026 04:03:39 UTC
 <!--END_SECTION:waka-->
 
 ---
