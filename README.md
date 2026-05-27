@@ -72,7 +72,7 @@ Currently deepening my work in **GitOps and Platform Engineering**, and I'm open
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -142,7 +142,7 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/divyal27/divyal27/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 03:49:40 UTC
+ Last Updated on 27/05/2026 04:03:24 UTC
 <!--END_SECTION:waka-->
 
 ---
