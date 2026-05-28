@@ -78,32 +78,32 @@ Currently deepening my work in **GitOps and Platform Engineering**, and I'm open
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2026
+> 🏆 77 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                27 commits          ████████░░░░░░░░░░░░░░░░░   31.03 % 
-🌃 Evening                50 commits          ██████████████░░░░░░░░░░░   57.47 % 
+🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌆 Daytime                28 commits          ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌃 Evening                51 commits          ██████████████░░░░░░░░░░░   57.30 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   16 commits          █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Monday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                25 commits          ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-Thursday                 23 commits          ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Sunday                   20 commits          ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Wednesday                27 commits          ████████░░░░░░░░░░░░░░░░░   30.34 % 
+Thursday                 23 commits          ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Sunday                   20 commits          ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
 ```
 
 
@@ -128,11 +128,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HCL                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -142,7 +142,7 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/divyal27/divyal27/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 04:03:24 UTC
+ Last Updated on 28/05/2026 03:51:49 UTC
 <!--END_SECTION:waka-->
 
 ---
