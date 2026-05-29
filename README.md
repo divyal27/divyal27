@@ -70,8 +70,6 @@ Currently deepening my work in **GitOps and Platform Engineering**, and I'm open
 
 <!-- REQUIRES WAKATIME SETUP — see setup guide below -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -86,45 +84,6 @@ Currently deepening my work in **GitOps and Platform Engineering**, and I'm open
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-🌆 Daytime                28 commits          ████████░░░░░░░░░░░░░░░░░   31.46 % 
-🌃 Evening                51 commits          ██████████████░░░░░░░░░░░   57.30 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                27 commits          ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Thursday                 23 commits          ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Sunday                   20 commits          ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -142,7 +101,7 @@ HCL                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/divyal27/divyal27/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 03:51:49 UTC
+ Last Updated on 29/05/2026 03:53:19 UTC
 <!--END_SECTION:waka-->
 
 ---
